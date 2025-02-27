@@ -1,8 +1,12 @@
-I'm mostly experienced in:  
-**Python**  
+<h2 align="center">**Divine Intention**</h2>
 
-I'm currently learning:  
-- **Lua**  
-- **HTML**  
+### 🛠️ Experience  
+🚀 **Experienced in:**  
+- 🐍 **Python**  
 
-If you'd like me to make you anything in my free time, message me on Telegram.  
+📚 **Currently Learning:**  
+- 🟡 **Lua**  
+- 🌐 **HTML**  
+
+💬 **Need something coded?**  
+Message me on **[Telegram](#)**!  
