@@ -1,4 +1,4 @@
-<h2 align="center">**Divine Intention**</h2>
+<h2 align="center">Divine Intention</h2>
 
 ### 🛠️ Experience  
 🚀 **Experienced in:**  
@@ -9,4 +9,4 @@
 - 🌐 **HTML**  
 
 💬 **Need something coded?**  
-Message me on **[Telegram](#)**!  
+Message me on **[Telegram](#)**. 
